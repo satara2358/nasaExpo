@@ -1,0 +1,3 @@
+-> npx create-expo-app nasa
+-> npx expo start
+-> npx expo install react-native-web react-dom @expo/metro-runtime
