@@ -31,11 +31,12 @@ const styles = StyleSheet.create({
   },
   title:{
     fontSize: 20,
+    fontWeight: 'bold',
     color: '#e8e1e1'
   },
   image:{
-    width: 60,
-    height: 60
+    width: 55,
+    height: 55
   }
 
 })
